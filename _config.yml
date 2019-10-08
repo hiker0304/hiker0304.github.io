@@ -20,7 +20,7 @@ title                    : "Devops로 살아남기"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "hiker"
-description              : "An amazing website."
+description              : "It is a good day to die."
 url                      : https://hiker0304.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
